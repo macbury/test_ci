@@ -1,7 +1,4 @@
 image: abstruse_builder
-before_install:
-  - apt-get update
-install:
-  - apt-get install -y node
 script:
+  - sleep 60
   - echo "Works!"
