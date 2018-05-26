@@ -1,4 +1,4 @@
-image: abstruse_builder
+image: nameless_image
 script:
   - sleep 60
   - echo "Works!"
