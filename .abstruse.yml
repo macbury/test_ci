@@ -1,4 +1,4 @@
-image: abstruse_builder
+image: test
 matrix:
   - env: RAILS_ENV=test
 script:
