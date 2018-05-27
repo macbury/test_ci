@@ -1,4 +1,6 @@
 image: nameless_image
+matrix:
+  - env: RAILS_ENV=test
 script:
   - sleep 60
   - echo "Works!"
