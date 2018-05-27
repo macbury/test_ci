@@ -1,4 +1,4 @@
-image: nameless_image
+image: test
 matrix:
   - env: RAILS_ENV=test
 script:
